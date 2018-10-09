@@ -1,0 +1,67 @@
+E:\VS2012Projects\keepAliveServ\keepAliveServ\bin\Release\keepAliveServ.exe.config
+E:\VS2012Projects\keepAliveServ\keepAliveServ\bin\Release\keepAliveServ.exe
+E:\VS2012Projects\keepAliveServ\keepAliveServ\bin\Release\keepAliveServ.pdb
+E:\VS2012Projects\keepAliveServ\keepAliveServ\obj\Release\keepAliveServ.ProjectInstaller.resources
+E:\VS2012Projects\keepAliveServ\keepAliveServ\obj\Release\keepAliveServ.csproj.GenerateResource.Cache
+E:\VS2012Projects\keepAliveServ\keepAliveServ\obj\Release\keepAliveServ.exe
+E:\VS2012Projects\keepAliveServ\keepAliveServ\obj\Release\keepAliveServ.pdb
+E:\VS2012Projects\keepAliveServ\keepAliveServ\obj\Release\keepAliveServ.csprojResolveAssemblyReference.cache
+C:\gateway\keepAlive\source\keepAliveServ\keepAliveServ\bin\Release\keepAliveServ.exe.config
+C:\gateway\keepAlive\source\keepAliveServ\keepAliveServ\bin\Release\keepAliveServ.exe
+C:\gateway\keepAlive\source\keepAliveServ\keepAliveServ\bin\Release\keepAliveServ.pdb
+C:\gateway\keepAlive\source\keepAliveServ\keepAliveServ\obj\Release\keepAliveServ.ProjectInstaller.resources
+C:\gateway\keepAlive\source\keepAliveServ\keepAliveServ\obj\Release\keepAliveServ.csproj.GenerateResource.Cache
+C:\gateway\keepAlive\source\keepAliveServ\keepAliveServ\obj\Release\keepAliveServ.exe
+C:\gateway\keepAlive\source\keepAliveServ\keepAliveServ\obj\Release\keepAliveServ.pdb
+C:\gateway\keepAlive\source\keepAliveServ\keepAliveServ\obj\Release\keepAliveServ.csprojResolveAssemblyReference.cache
+Z:\PC Template Prog\BTN\gateway\keepAlive\source\keepAliveServ\keepAliveServ\bin\Release\keepAliveServ.exe.config
+Z:\PC Template Prog\BTN\gateway\keepAlive\source\keepAliveServ\keepAliveServ\obj\Release\keepAliveServ.exe
+Z:\PC Template Prog\BTN\gateway\keepAlive\source\keepAliveServ\keepAliveServ\obj\Release\keepAliveServ.pdb
+Z:\PC Template Prog\BTN\gateway\keepAlive\source\keepAliveServ\keepAliveServ\bin\Release\keepAliveServ.exe
+Z:\PC Template Prog\BTN\gateway\keepAlive\source\keepAliveServ\keepAliveServ\bin\Release\keepAliveServ.pdb
+Z:\PC Template Prog\BTN\gateway\keepAlive\source\keepAliveServ\keepAliveServ\obj\Release\keepAliveServ.ProjectInstaller.resources
+Z:\PC Template Prog\BTN\gateway\keepAlive\source\keepAliveServ\keepAliveServ\obj\Release\keepAliveServ.csproj.GenerateResource.Cache
+Z:\PC Template Prog\BTN\gateway\keepAlive\source\keepAliveServ\keepAliveServ\obj\Release\keepAliveServ.csprojResolveAssemblyReference.cache
+Z:\PCTemplateProg\BTN\gateway\keepAlive\source\keepAliveServ\keepAliveServ\bin\Release\keepAliveServ.exe.config
+Z:\PCTemplateProg\BTN\gateway\keepAlive\source\keepAliveServ\keepAliveServ\obj\Release\keepAliveServ.exe
+Z:\PCTemplateProg\BTN\gateway\keepAlive\source\keepAliveServ\keepAliveServ\obj\Release\keepAliveServ.pdb
+Z:\PCTemplateProg\BTN\gateway\keepAlive\source\keepAliveServ\keepAliveServ\bin\Release\keepAliveServ.exe
+Z:\PCTemplateProg\BTN\gateway\keepAlive\source\keepAliveServ\keepAliveServ\bin\Release\keepAliveServ.pdb
+Z:\PCTemplateProg\BTN\gateway\keepAlive\source\keepAliveServ\keepAliveServ\obj\Release\keepAliveServ.csprojResolveAssemblyReference.cache
+Z:\PCTemplateProg\BTN\gateway\keepAlive\source\keepAliveServ\keepAliveServ\obj\Release\keepAliveServ.ProjectInstaller.resources
+Z:\PCTemplateProg\BTN\gateway\keepAlive\source\keepAliveServ\keepAliveServ\obj\Release\keepAliveServ.Properties.Resources.resources
+Z:\PCTemplateProg\BTN\gateway\keepAlive\source\keepAliveServ\keepAliveServ\obj\Release\keepAliveServ.csproj.GenerateResource.Cache
+Z:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\obj\Release\keepAliveServ.ProjectInstaller.resources
+Z:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\obj\Release\keepAliveServ.Properties.Resources.resources
+Z:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\obj\Release\keepAliveServ.csproj.GenerateResource.Cache
+Z:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Release\keepAlive.exe.config
+Z:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Release\keepAlive.exe
+Z:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Release\keepAlive.pdb
+Z:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\obj\Release\keepAlive.exe
+Z:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\obj\Release\keepAlive.pdb
+F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Release\keepAlive.exe.config
+F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\obj\Release\keepAlive.exe
+F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\obj\Release\keepAlive.pdb
+F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Release\keepAlive.exe
+F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Release\keepAlive.pdb
+F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\obj\Release\keepAliveServ.ProjectInstaller.resources
+F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\obj\Release\keepAliveServ.Properties.Resources.resources
+F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\obj\Release\keepAliveServ.csproj.GenerateResource.Cache
+F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\obj\Release\keepAliveServ.csprojResolveAssemblyReference.cache
+G:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Release\keepAlive.exe.config
+G:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\obj\Release\keepAlive.exe
+G:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\obj\Release\keepAlive.pdb
+G:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\obj\Release\keepAliveServ.ProjectInstaller.resources
+G:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\obj\Release\keepAliveServ.Properties.Resources.resources
+G:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\obj\Release\keepAliveServ.csproj.GenerateResource.Cache
+G:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Release\keepAlive.exe
+G:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Release\keepAlive.pdb
+F:\Project\C#\KeepAliveServ\keepAliveServ\bin\Release\keepAlive.exe.config
+F:\Project\C#\KeepAliveServ\keepAliveServ\bin\Release\keepAlive.exe
+F:\Project\C#\KeepAliveServ\keepAliveServ\bin\Release\keepAlive.pdb
+F:\Project\C#\KeepAliveServ\keepAliveServ\obj\Release\keepAliveServ.csprojResolveAssemblyReference.cache
+F:\Project\C#\KeepAliveServ\keepAliveServ\obj\Release\keepAliveServ.ProjectInstaller.resources
+F:\Project\C#\KeepAliveServ\keepAliveServ\obj\Release\keepAliveServ.Properties.Resources.resources
+F:\Project\C#\KeepAliveServ\keepAliveServ\obj\Release\keepAliveServ.csproj.GenerateResource.Cache
+F:\Project\C#\KeepAliveServ\keepAliveServ\obj\Release\keepAlive.exe
+F:\Project\C#\KeepAliveServ\keepAliveServ\obj\Release\keepAlive.pdb

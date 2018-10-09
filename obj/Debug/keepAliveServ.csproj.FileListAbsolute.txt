@@ -1,0 +1,56 @@
+E:\VS2012Projects\keepAliveServ\keepAliveServ\bin\Debug\keepAliveServ.exe.config
+E:\VS2012Projects\keepAliveServ\keepAliveServ\bin\Debug\keepAliveServ.exe
+E:\VS2012Projects\keepAliveServ\keepAliveServ\bin\Debug\keepAliveServ.pdb
+E:\VS2012Projects\keepAliveServ\keepAliveServ\obj\Debug\keepAliveServ.ProjectInstaller.resources
+E:\VS2012Projects\keepAliveServ\keepAliveServ\obj\Debug\keepAliveServ.csproj.GenerateResource.Cache
+E:\VS2012Projects\keepAliveServ\keepAliveServ\obj\Debug\keepAliveServ.exe
+E:\VS2012Projects\keepAliveServ\keepAliveServ\obj\Debug\keepAliveServ.pdb
+C:\gateway\keepAlive\source\keepAliveServ\keepAliveServ\bin\Debug\keepAliveServ.exe.config
+C:\gateway\keepAlive\source\keepAliveServ\keepAliveServ\obj\Debug\keepAliveServ.exe
+C:\gateway\keepAlive\source\keepAliveServ\keepAliveServ\obj\Debug\keepAliveServ.pdb
+C:\gateway\keepAlive\source\keepAliveServ\keepAliveServ\bin\Debug\keepAliveServ.exe
+C:\gateway\keepAlive\source\keepAliveServ\keepAliveServ\bin\Debug\keepAliveServ.pdb
+C:\gateway\keepAlive\source\keepAliveServ\keepAliveServ\obj\Debug\keepAliveServ.ProjectInstaller.resources
+C:\gateway\keepAlive\source\keepAliveServ\keepAliveServ\obj\Debug\keepAliveServ.csproj.GenerateResource.Cache
+Z:\PC Template Prog\BTN\gateway\keepAlive\source\keepAliveServ\keepAliveServ\bin\Debug\keepAliveServ.exe.config
+Z:\PC Template Prog\BTN\gateway\keepAlive\source\keepAliveServ\keepAliveServ\obj\Debug\keepAliveServ.exe
+Z:\PC Template Prog\BTN\gateway\keepAlive\source\keepAliveServ\keepAliveServ\obj\Debug\keepAliveServ.pdb
+Z:\PC Template Prog\BTN\gateway\keepAlive\source\keepAliveServ\keepAliveServ\bin\Debug\keepAliveServ.exe
+Z:\PC Template Prog\BTN\gateway\keepAlive\source\keepAliveServ\keepAliveServ\bin\Debug\keepAliveServ.pdb
+Z:\PC Template Prog\BTN\gateway\keepAlive\source\keepAliveServ\keepAliveServ\obj\Debug\keepAliveServ.ProjectInstaller.resources
+Z:\PC Template Prog\BTN\gateway\keepAlive\source\keepAliveServ\keepAliveServ\obj\Debug\keepAliveServ.csproj.GenerateResource.Cache
+Z:\PCTemplate Prog\BTN\gateway\keepAlive\source\keepAliveServ\keepAliveServ\bin\Debug\keepAliveServ.exe.config
+Z:\PCTemplate Prog\BTN\gateway\keepAlive\source\keepAliveServ\keepAliveServ\obj\Debug\keepAliveServ.exe
+Z:\PCTemplate Prog\BTN\gateway\keepAlive\source\keepAliveServ\keepAliveServ\obj\Debug\keepAliveServ.pdb
+Z:\PCTemplate Prog\BTN\gateway\keepAlive\source\keepAliveServ\keepAliveServ\bin\Debug\keepAliveServ.exe
+Z:\PCTemplate Prog\BTN\gateway\keepAlive\source\keepAliveServ\keepAliveServ\bin\Debug\keepAliveServ.pdb
+Z:\PCTemplate Prog\BTN\gateway\keepAlive\source\keepAliveServ\keepAliveServ\obj\Debug\keepAliveServ.csprojResolveAssemblyReference.cache
+Z:\PCTemplate Prog\BTN\gateway\keepAlive\source\keepAliveServ\keepAliveServ\obj\Debug\keepAliveServ.ProjectInstaller.resources
+Z:\PCTemplate Prog\BTN\gateway\keepAlive\source\keepAliveServ\keepAliveServ\obj\Debug\keepAliveServ.Properties.Resources.resources
+Z:\PCTemplate Prog\BTN\gateway\keepAlive\source\keepAliveServ\keepAliveServ\obj\Debug\keepAliveServ.csproj.GenerateResource.Cache
+Z:\PCTemplateProg\BTN\gateway\keepAlive\source\keepAliveServ\keepAliveServ\bin\Debug\keepAliveServ.exe.config
+Z:\PCTemplateProg\BTN\gateway\keepAlive\source\keepAliveServ\keepAliveServ\obj\Debug\keepAliveServ.exe
+Z:\PCTemplateProg\BTN\gateway\keepAlive\source\keepAliveServ\keepAliveServ\obj\Debug\keepAliveServ.pdb
+Z:\PCTemplateProg\BTN\gateway\keepAlive\source\keepAliveServ\keepAliveServ\bin\Debug\keepAliveServ.exe
+Z:\PCTemplateProg\BTN\gateway\keepAlive\source\keepAliveServ\keepAliveServ\bin\Debug\keepAliveServ.pdb
+Z:\PCTemplateProg\BTN\gateway\keepAlive\source\keepAliveServ\keepAliveServ\obj\Debug\keepAliveServ.ProjectInstaller.resources
+Z:\PCTemplateProg\BTN\gateway\keepAlive\source\keepAliveServ\keepAliveServ\obj\Debug\keepAliveServ.Properties.Resources.resources
+Z:\PCTemplateProg\BTN\gateway\keepAlive\source\keepAliveServ\keepAliveServ\obj\Debug\keepAliveServ.csproj.GenerateResource.Cache
+Z:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe.config
+Z:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe
+Z:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.pdb
+Z:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\obj\Debug\keepAliveServ.ProjectInstaller.resources
+Z:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\obj\Debug\keepAliveServ.Properties.Resources.resources
+Z:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\obj\Debug\keepAliveServ.csproj.GenerateResource.Cache
+Z:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\obj\Debug\keepAlive.exe
+Z:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\obj\Debug\keepAlive.pdb
+Z:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\obj\Debug\keepAliveServ.csprojResolveAssemblyReference.cache
+F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe.config
+F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\obj\Debug\keepAlive.exe
+F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\obj\Debug\keepAlive.pdb
+F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe
+F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.pdb
+F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\obj\Debug\keepAliveServ.ProjectInstaller.resources
+F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\obj\Debug\keepAliveServ.Properties.Resources.resources
+F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\obj\Debug\keepAliveServ.csproj.GenerateResource.Cache
+F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\obj\Debug\keepAliveServ.csprojResolveAssemblyReference.cache

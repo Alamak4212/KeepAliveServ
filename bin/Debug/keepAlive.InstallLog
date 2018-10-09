@@ -1,0 +1,352 @@
+﻿Installing assembly 'Z:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = Z:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.InstallLog
+   assemblypath = Z:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe
+Installing service keepAliveService...
+Creating EventLog source keepAliveService in log Application...
+Rolling back assembly 'Z:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = Z:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.InstallLog
+   assemblypath = Z:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe
+Restoring event log to previous state for source keepAliveService.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'Z:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = Z:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.InstallLog
+   assemblypath = Z:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe
+Installing service keepAliveService...
+Service keepAliveService has been successfully installed.
+Creating EventLog source keepAliveService in log Application...
+Committing assembly 'Z:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = Z:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.InstallLog
+   assemblypath = Z:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe
+Uninstalling assembly 'Z:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = Z:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.InstallLog
+   assemblypath = Z:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe
+Removing EventLog source keepAliveService.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'Z:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = Z:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.InstallLog
+   assemblypath = Z:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe
+Removing EventLog source keepAliveService.
+Service keepAliveService is being removed from the system...
+Service keepAliveService was successfully removed from the system.
+Installing assembly 'F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.InstallLog
+   assemblypath = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe
+Unable to create an instance of the keepAliveServ.ProjectInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.ArgumentException was thrown with the following error message: Service name  contains invalid characters, is empty, or is too long (max length = 80)..
+Rolling back assembly 'F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.InstallLog
+   assemblypath = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe
+Unable to create an instance of the keepAliveServ.ProjectInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.ArgumentException was thrown with the following error message: Service name  contains invalid characters, is empty, or is too long (max length = 80)..
+Installing assembly 'F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.InstallLog
+   assemblypath = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe
+Unable to create an instance of the keepAliveServ.ProjectInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.ArgumentException was thrown with the following error message: Service name  contains invalid characters, is empty, or is too long (max length = 80)..
+Rolling back assembly 'F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.InstallLog
+   assemblypath = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe
+Unable to create an instance of the keepAliveServ.ProjectInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.ArgumentException was thrown with the following error message: Service name  contains invalid characters, is empty, or is too long (max length = 80)..
+Installing assembly 'F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.InstallLog
+   assemblypath = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe
+Unable to create an instance of the keepAliveServ.ProjectInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.ArgumentException was thrown with the following error message: Service name  contains invalid characters, is empty, or is too long (max length = 80)..
+Rolling back assembly 'F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.InstallLog
+   assemblypath = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe
+Unable to create an instance of the keepAliveServ.ProjectInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.ArgumentException was thrown with the following error message: Service name  contains invalid characters, is empty, or is too long (max length = 80)..
+Installing assembly 'F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.InstallLog
+   assemblypath = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe
+Installing service InstallUtil.exe...
+Creating EventLog source InstallUtil.exe in log Application...
+Rolling back assembly 'F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.InstallLog
+   assemblypath = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe
+Restoring event log to previous state for source InstallUtil.exe.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Uninstalling assembly 'F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.InstallLog
+   assemblypath = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe
+Removing EventLog source InstallUtil.exe.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.InstallLog
+   assemblypath = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe
+Installing service InstallUtil.exe...
+Creating EventLog source InstallUtil.exe in log Application...
+Rolling back assembly 'F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.InstallLog
+   assemblypath = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe
+Restoring event log to previous state for source InstallUtil.exe.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.InstallLog
+   assemblypath = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe
+Installing service keepAliveService...
+Creating EventLog source keepAliveService in log Application...
+Rolling back assembly 'F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.InstallLog
+   assemblypath = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe
+Restoring event log to previous state for source keepAliveService.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Uninstalling assembly 'F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.InstallLog
+   assemblypath = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe
+Removing EventLog source keepAliveService.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.InstallLog
+   assemblypath = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe
+Installing service keepAliveService...
+Creating EventLog source keepAliveService in log Application...
+Rolling back assembly 'F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.InstallLog
+   assemblypath = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe
+Restoring event log to previous state for source keepAliveService.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.InstallLog
+   assemblypath = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe
+Installing service keepAliveService...
+Creating EventLog source keepAliveService in log Application...
+Rolling back assembly 'F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.InstallLog
+   assemblypath = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe
+Restoring event log to previous state for source keepAliveService.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.InstallLog
+   assemblypath = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe
+Installing service keepAliveService...
+Service keepAliveService has been successfully installed.
+Creating EventLog source keepAliveService in log Application...
+Committing assembly 'F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.InstallLog
+   assemblypath = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe
+Uninstalling assembly 'F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.InstallLog
+   assemblypath = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe
+Removing EventLog source keepAliveService.
+Service keepAliveService is being removed from the system...
+Service keepAliveService was successfully removed from the system.
+Installing assembly 'F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.InstallLog
+   assemblypath = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe
+Installing service InstallUtil.exe...
+Service InstallUtil.exe has been successfully installed.
+Creating EventLog source InstallUtil.exe in log Application...
+Committing assembly 'F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.InstallLog
+   assemblypath = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe
+Uninstalling assembly 'F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.InstallLog
+   assemblypath = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe
+Removing EventLog source InstallUtil.exe.
+Service InstallUtil.exe is being removed from the system...
+Service InstallUtil.exe was successfully removed from the system.
+Installing assembly 'F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.InstallLog
+   assemblypath = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe
+Installing service Test...
+Service Test has been successfully installed.
+Creating EventLog source Test in log Application...
+Committing assembly 'F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.InstallLog
+   assemblypath = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe
+Installing assembly 'F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.InstallLog
+   assemblypath = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe
+Installing service Test...
+Creating EventLog source Test in log Application...
+Rolling back assembly 'F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.InstallLog
+   assemblypath = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe
+Restoring event log to previous state for source Test.
+Uninstalling assembly 'F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.InstallLog
+   assemblypath = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe
+Removing EventLog source Test.
+Service Test is being removed from the system...
+Service Test was successfully removed from the system.
+Installing assembly 'F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.InstallLog
+   assemblypath = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe
+Installing service Test...
+Service Test has been successfully installed.
+Creating EventLog source Test in log Application...
+Committing assembly 'F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.InstallLog
+   assemblypath = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe
+Uninstalling assembly 'F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.InstallLog
+   assemblypath = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe
+Removing EventLog source Test.
+Service Test is being removed from the system...
+Service Test was successfully removed from the system.
+Installing assembly 'F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.InstallLog
+   assemblypath = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe
+Installing service Test...
+Service Test has been successfully installed.
+Creating EventLog source Test in log Application...
+Committing assembly 'F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.InstallLog
+   assemblypath = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe
+Uninstalling assembly 'F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.InstallLog
+   assemblypath = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe
+Removing EventLog source Test.
+Service Test is being removed from the system...
+Service Test was successfully removed from the system.
+Installing assembly 'F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.InstallLog
+   assemblypath = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe
+Installing service Test...
+Service Test has been successfully installed.
+Creating EventLog source Test in log Application...
+Committing assembly 'F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.InstallLog
+   assemblypath = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe
+Uninstalling assembly 'F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.InstallLog
+   assemblypath = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe
+Removing EventLog source Test.
+Service Test is being removed from the system...
+Service Test was successfully removed from the system.
+Installing assembly 'F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.InstallLog
+   assemblypath = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe
+Installing service keepAlive...
+Service keepAlive has been successfully installed.
+Creating EventLog source keepAlive in log Application...
+Committing assembly 'F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.InstallLog
+   assemblypath = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe
+Uninstalling assembly 'F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.InstallLog
+   assemblypath = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug\keepAlive.exe
+Removing EventLog source keepAlive.
+Service keepAlive is being removed from the system...
+Service keepAlive was successfully removed from the system.

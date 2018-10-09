@@ -1,0 +1,8 @@
+Process Init : AppName2nd Parameter Not Set 09/06/2017 10.17.47
+Start service KeepAlive
+OnElapsedTime 09/06/2017 10.17.47
+Application No : 1 Process Not Found
+Process Start, Set infofilename = F:\PCTemplateProg\BTN\KeepAliveServ\keepAliveServ\bin\Debug//SwitchMultiBank.exe
+Process SwitchMultiBank Started by KeepAlive
+Process Start, StandardError : 
+Process Start, StandardOutput : 

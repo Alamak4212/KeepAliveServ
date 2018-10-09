@@ -1,0 +1,75 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="keepAliveServ.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="AppName1st" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SwitchMultiBank</Value>
+    </Setting>
+    <Setting Name="AppName2nd" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="AppName3rd" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="AppPath1st" Type="System.String" Scope="User">
+      <Value Profile="(Default)">F:\PCTemplateProg\SmartEdc\SwitchMultiBank\SwitchMultiBank\bin\Debug</Value>
+    </Setting>
+    <Setting Name="AppPath2nd" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="AppPath3rd" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="BatchFileFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">F:\PCTemplateProg\SmartEdc\SwitchMultiBank\SwitchMultiBank\bin\Debug</Value>
+    </Setting>
+    <Setting Name="AppStat1st" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="AppStat2nd" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="AppStat3rd" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="User" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="User_Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="AppArg1" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="AppArg2" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="AppArg3" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="RestartAppEOD" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Trace" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="TimeRestart_1" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">6</Value>
+    </Setting>
+    <Setting Name="TimeRestart_2" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">12</Value>
+    </Setting>
+    <Setting Name="TimeRestart_3" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="MonitorPort_App1" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">7001</Value>
+    </Setting>
+    <Setting Name="MonitorPort_App2" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">7002</Value>
+    </Setting>
+    <Setting Name="MonitorPort_App3" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

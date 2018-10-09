@@ -1,0 +1,14 @@
+[EDCSERVER DANUS]
+PORT_LISTEN=8000
+THREAD_MAX=10
+IP_SW=192.168.001.005
+PORT_SW=6002
+IP_AJ=127.0.0.1
+PORT_AJ=8002
+TypeDB=0
+ConStringDB=server=ALAMAK-PC;user id=root;password=1234;persistsecurityinfo=True;database=danus
+LenTypeEdc=1
+LenTypeXlink=2
+LenTypeArthaJasa=2
+XlinkFormat=1
+DEBUG_ISO=0
